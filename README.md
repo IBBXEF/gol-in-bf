@@ -8,7 +8,7 @@ So, unlike other projects doing a similar thing, the grid size in this project g
 Sadly, I have for now only implemeted the expansion on the left and right side of the grid.
 
 ## How to install and run:
-Simply download the project and a brainfuck interpretor/compiler of you choice (there is a lot online, like this one https://github.com/susam/bfc).
+Simply download the project and a brainfuck interpretor/compiler of your choice (there is lots online, like this one https://github.com/susam/bfc).
 
 Then, run the program with as input a text representing the state of the grid like in the example files.
 
