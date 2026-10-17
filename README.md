@@ -16,4 +16,4 @@ Due to technical limitation, it is advised to have at least 2 rows/lines of empt
 
 The project will run a fixed number of iterations of gol and then print the current state of the board.
 
-It is possible to modify in whitch directions the grid extends, the number of iterations and if the programs prints each individual iteration at line 66-69 of the main file.
+It is possible to modify in which directions the grid extends, the number of iterations and if the programs prints each individual iteration at line 66-69 of the main file.
